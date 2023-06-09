@@ -1,0 +1,309 @@
+{
+    "motorbike-spares": [
+        {
+            "name": "Charging Unit",
+            "price": "R150.00",
+            "image": "/images/catalogue/charging-unit.jpg"
+        },
+        {
+            "name": "Break Cable",
+            "price": "R150.00",
+            "image": "/images/catalogue/brake-cable.jpg"
+        },
+        {
+            "name": "Rear Sprocket",
+            "price": "R230.00",
+            "image": "/images/catalogue/rear-sprocket.jpg"
+        },
+        {
+            "name": "Chains",
+            "price": "R230.00",
+            "image": "/images/catalogue/chains.jpg"
+        },
+        {
+            "name": "Ignition, Tank Cup & Handles Locker Set",
+            "price": "R450.00",
+            "image": "/images/catalogue/ignition-tank-cap-handles-locker-set.jpg"
+        },
+        {
+            "name": "Speedometer",
+            "price": "R500.00",
+            "image": "/images/catalogue/speedometer.jpg"
+        },
+        {
+            "name": "Clutch Set",
+            "price": "R380.00",
+            "image": "/images/catalogue/clutch-set2.jpg"
+        },
+        {
+            "name": "Original Scooter Belts",
+            "price": "R300.00",
+            "image": "/images/catalogue/scooter-og-belt.jpg"
+        },
+        {
+            "name": "Kick Gear Shaft",
+            "price": "R300.00",
+            "image": "/images/catalogue/kick-gear-shaft.jpg"
+        },
+        {
+            "name": "Fuel Pipe",
+            "price": "R50.00",
+            "image": "/images/catalogue/fuel-pipe.jpg"
+        },
+        {
+            "name": "Hydraulic Handle",
+            "price": "R350.00",
+            "image": "/images/catalogue/hydraulic-handle.jpg"
+        },
+        {
+            "name": "BATT Original Offroad Tubeless 300 - 18 Bike Tyre",
+            "price": "R150.00",
+            "image": "/images/catalogue/batt-tubeless-tyres.jpg"
+        },
+        {
+            "name": "BATT 120/70 - 12 Tubeless Scooter Tyre",
+            "price": "R650.00",
+            "image": "/images/catalogue/batt-tubeless-tyres2.jpg"
+        },
+        {
+            "name": "Carburettor Engine Link",
+            "price": "R120.00",
+            "image": "/images/catalogue/carburettor-engine-link.jpg"
+        },
+        {
+            "name": "Carburettor Air Filter Link",
+            "price": "R100.00",
+            "image": "/images/catalogue/carburettor-air-filter-link.jpg"
+        },
+        {
+            "name": "Indicators",
+            "price": "R250.00",
+            "image": "/images/catalogue/bigboy-indicators.jpg"
+        },
+        {
+            "name": "Spark Plug for Scooters",
+            "price": "R50.00",
+            "image": "/images/catalogue/scooter-plug.jpg"
+        },
+        {
+            "name": "5 Litre Oil 20W 50",
+            "price": "R400.00",
+            "image": "/images/catalogue/super-500-oil.jpg"
+        },
+        {
+            "name": "Clutch Lever",
+            "price": "R150.00",
+            "image": "/images/catalogue/clutch-lever.jpg"
+        },
+        {
+            "name": "Brake Lever",
+            "price": "R150.00",
+            "image": "/images/catalogue/brake-lever.jpg"
+        },
+        {
+            "name": "Bearing 6004",
+            "price": "R100.00",
+            "image": "/images/catalogue/bearing6004.jpg"
+        },
+        {
+            "name": "Engine Oil",
+            "price": "R50.00",
+            "image": "/images/catalogue/engine-oil.jpg"
+        },
+        {
+            "name": "Bulb",
+            "price": "R60.00",
+            "image": "/images/catalogue/bulb.jpg"
+        },
+        {
+            "name": "Headlight",
+            "price": "R450.00",
+            "image": "/images/catalogue/headlight.jpg"
+        },
+        {
+            "name": "Headlight Bulbs",
+            "price": "R50.00",
+            "image": "/images/catalogue/headlight-bulb.jpg"
+        },
+        {
+            "name": "Fuses",
+            "price": "R5.00",
+            "image": "/images/catalogue/fuses.jpg"
+        },
+        {
+            "name": "Rings",
+            "price": "R120.00",
+            "image": "/images/catalogue/rings.jpg"
+        },
+        {
+            "name": "Scooter Rear Clutch Spring",
+            "price": "R60.00",
+            "image": "/images/catalogue/scooter-rear-clutch-spring.jpg"
+        },
+        {
+            "name": "Gear Lever",
+            "price": "R150.00",
+            "image": "/images/catalogue/gear-lever.jpg"
+        },
+        {
+            "name": "Scooter Accelerator Cable",
+            "price": "R150.00",
+            "image": "/images/catalogue/scooter-accl-cable.jpg"
+        },
+        {
+            "name": "Bike Accelerator Cable",
+            "price": "R150.00",
+            "image": "/images/catalogue/accelerator-cable.jpg"
+        },
+        {
+            "name": "Cable Ties",
+            "price": "R2.00",
+            "image": "/images/catalogue/cable-ties.jpg"
+        },
+        {
+            "name": "Brake Pads",
+            "price": "R120.00",
+            "image": "/images/catalogue/brake-pads2.jpg"
+        },
+        {
+            "name": "Scooter Rollers",
+            "price": "R120.00",
+            "image": "/images/catalogue/scooter-rollers.jpg"
+        },
+        {
+            "name": "Flickers",
+            "price": "R50.00",
+            "image": "/images/catalogue/flickers.jpg"
+        },
+        {
+            "name": "Hooter",
+            "price": "R150.00",
+            "image": "/images/catalogue/hooter.jpg"
+        },
+        {
+            "name": "Scooter Air Filter",
+            "price": "R70.00",
+            "image": "/images/catalogue/scooter-air-filter.jpg"
+        },
+        {
+            "name": "Ignition Coil",
+            "price": "R200.00",
+            "image": "/images/catalogue/ignition-coil.jpg"
+        },
+        {
+            "name": "Indicator Bulbs",
+            "price": "R15.00",
+            "image": "/images/catalogue/indicator-bulbs.jpg"
+        },
+        {
+            "name": "Oil Dip Stick",
+            "price": "R100.00",
+            "image": "/images/catalogue/oil-dip-stick.jpg"
+        },
+        {
+            "name": "Bike Gaskets",
+            "price": "R120.00",
+            "image": "/images/catalogue/bigboy-gasket.jpg"
+        },
+        {
+            "name": "Scooter Gaskets",
+            "price": "R120.00",
+            "image": "/images/catalogue/gy6-scooter-gaskets.jpg"
+        },
+        {
+            "name": "Scooter Timing Guides",
+            "price": "R120.00",
+            "image": "/images/catalogue/timing-guides.jpg"
+        },
+        {
+            "name": "520 124 L Chain",
+            "price": "R300.00",
+            "image": "/images/catalogue/l-chain.jpg"
+        },
+        {
+            "name": "Scooter Mirrors",
+            "price": "R150.00",
+            "image": "/images/catalogue/scooter-mirrors.jpg"
+        },
+        {
+            "name": "Bike Mirror Set",
+            "price": "R150.00",
+            "image": "/images/catalogue/mirror-set.jpg"
+        },
+        {
+            "name": "LED Indicators",
+            "price": "R150.00",
+            "image": "/images/catalogue/led-indicators.jpg"
+        },
+        {
+            "name": "Exhaust Holder Bolt & Nuts",
+            "price": "R40.00",
+            "image": "/images/catalogue/exhaust-holder.jpg"
+        },
+        {
+            "name": "Front Sprocket Holder Bolts & Nuts",
+            "price": "R40.00",
+            "image": "/images/catalogue/front-speocket-holder.jpg"
+        },
+        {
+            "name": "Hub Bolts & Nuts",
+            "price": "R70.00",
+            "image": "/images/catalogue/hub-bolts-nuts.jpg"
+        },
+        {
+            "name": "Scooter Pistons & Rings",
+            "price": "R280.00",
+            "image": "/images/catalogue/scooter-pistion-rings2.jpg"
+        },
+        {
+            "name": "Bike Tubeless Valve",
+            "price": "R70.00",
+            "image": "/images/catalogue/tubeless-valve.jpg"
+        },
+        {
+            "name": "Scooter Tubeless Valve",
+            "price": "R60.00",
+            "image": "/images/catalogue/scooter-subeless-valve.jpg"
+        },
+        {
+            "name": "Bike Pistons & Rings",
+            "price": "R280.00",
+            "image": "/images/catalogue/bigboy-piston-kit.jpg"
+        },
+        {
+            "name": "Tailights",
+            "price": "R30.00",
+            "image": "/images/catalogue/taillights.jpg"
+        },
+        {
+            "name": "Castrol GTX Oil",
+            "price": "R100.00 per litre",
+            "image": "/images/catalogue/taillights.jpg"
+        },
+        {
+            "name": "Oil Seals",
+            "price": "R200.00",
+            "image": "/images/catalogue/oil-seals.jpg"
+        },
+        {
+            "name": "CDI For Scooters",
+            "price": "R200.00",
+            "image": "/images/catalogue/scooter-cdi.jpg"
+        },
+        {
+            "name": "Hub",
+            "price": "R300.00",
+            "image": "/images/catalogue/hub.jpg"
+        },
+        {
+            "name": "Regulators",
+            "price": "R200.00",
+            "image": "/images/catalogue/regulators.jpg"
+        },
+        {
+            "name": "bearings",
+            "price": "R100.00",
+            "image": "/images/catalogue/bearings.jpg"
+        }
+    ]
+}

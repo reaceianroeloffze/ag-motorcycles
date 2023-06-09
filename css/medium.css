@@ -1,0 +1,44 @@
+@media screen and (min-width: 560px) {
+    
+    .content {
+        font-size: 1.5rem;
+    }
+
+    .page-title {
+        font-size: 3.5rem;
+    }
+
+    .site-heading {
+        font-size: 3rem;
+    }
+    
+    .main-content {
+        padding: 0 30px;
+    }
+
+    .contact-form {
+        width: 560px;
+    }
+
+    .catalogue-container {
+        display: grid;
+        gap: 30px;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .catalogue-info {
+        display: grid;
+        grid-template-rows: 90px 350px 10px;
+        align-items: center;
+        margin: 0;
+    }
+
+    .catalogue-info__image {
+        align-self: center;
+    }
+
+    .cta-box {
+        width: 50%;
+    }
+
+}

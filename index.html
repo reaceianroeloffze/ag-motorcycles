@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Reace Ian Roeloffze">
+    <meta name="description" content="Homepage for Daniel and Plumbers site">
+    <link rel="stylesheet" href="/css/small.css" media="screen">
+    <link rel="stylesheet" href="/css/medium.css" media="screen">
+    <link rel="stylesheet" href="/css/large.css" media="screen">
+    <link rel="stylesheet" href="/css/normalize.css" media="screen">
+    <link rel="icon" href="/images/plumbers-icon.jpg">
+    <title>Homepage | A&G Motorcycles</title>
+</head>
+<body>
+    <!-- Content container -->
+    <div class="content">
+        <!-- Header & Navigation -->
+        <header class="site-header">
+            <div class="logo-box">
+                <a href="/index.html" class="site-link home-link"><img src="/images/site-logo/ag-motors-logo.png" alt="A&G Motorcycles Logo" class="logo-box__logo site-img">A&G Motorcycles</a>     
+            </div>
+        </header>
+        <nav class="site-navigation">
+            <ul class="site-navigation__links-list">
+                <li class="links-list__list-item"><a href="/index.html" class="list-item__site-link">Home</a></li>
+                <li class="links-list__list-item"><a href="/about.html" class="list-item__site-link">About Us</a></li>
+                <li class="links-list__list-item"><a href="/contact.html" class="list-item__site-link">Contact Us</a></li>
+            </ul>
+        </nav>
+        <!-- Main content for site -->
+        <main class="main-content">
+            <h1 class="page-title">Welcome to the A&G Motorcycles Website!</h1>
+            <p class="para-intro site-para">
+                Thank you for visiting our site! On this page you can browse a catalogue of various motorbike & scooter spares that you need to get them up and running and in prime condition again! See something you like? Visit our <a href="/contact.html" class="site-link para-link">Contact Us</a> page and place your order now!
+            </p>
+            <section class="catalogue-box">  
+                <h2 class="site-heading">A&G Motors Catalogue</h2>
+                <!-- This div will contain data from a json file inserted with JavaScript -->
+                <div class="catalogue-container"></div>
+            </section>
+            <!-- This div will contain data from a json file inserted with JavaScript -->
+            <div class="catalogue-container"></div>
+        </main>
+        <!-- Site Footer -->
+        <footer class="site-footer">
+            <p class="copyright">© <span class="copyright__date"></span></p>
+            <p class="last-updated">Last Updated: <span class="last-updated__date"></span></p>
+        </footer>
+    </div>
+
+   <script src="js/last-updated.js"></script>
+   <script src="js/catalogue.js"></script>
+</body>
+</html>

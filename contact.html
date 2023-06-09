@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Reace Ian Roeloffze">
+    <meta name="description" content="Contact Us Page for A&G Motorcycles site">
+    <link rel="stylesheet" href="/css/small.css" media="screen">
+    <link rel="stylesheet" href="/css/medium.css" media="screen">
+    <link rel="stylesheet" href="/css/large.css" media="screen">
+    <link rel="stylesheet" href="/css/normalize.css" media="screen">
+    <link rel="icon" href="/images/plumbers-icon.jpg">
+    <title>Contact Us | A&G Motorcycles</title>
+</head>
+<body>
+    <!-- Content container -->
+    <div class="content">
+        <!-- Header & Navigation -->
+        <header class="site-header">
+            <div class="logo-box">
+                <a href="/index.html" class="site-link home-link"><img src="/images/site-logo/ag-motors-logo.png" alt="A&G Motorcycles Logo" class="logo-box__logo site-img">A&G Motorcycles</a>     
+            </div>
+        </header>
+        <nav class="site-navigation">
+            <ul class="site-navigation__links-list">
+                <li class="links-list__list-item"><a href="/index.html" class="list-item__site-link">Home</a></li>
+                <li class="links-list__list-item"><a href="/about.html" class="list-item__site-link">About Us</a></li>
+                <li class="links-list__list-item"><a href="/contact.html" class="list-item__site-link">Contact Us</a></li>
+            </ul>
+        </nav>
+        <!-- Main content for site -->
+        <main class="main-content">
+            <h1 class="page-title">Contact Us</h1>
+            <p class="para-intro site-para">
+                Do you have a query or would like to order a part? No problem! We are more than happy to assist you. You can fill out the form below to inquire via E-mail, or contact us directly by giving us a call.
+            </p>
+            <div class="cta-box">
+                <p class="cta-box__para">
+                    WhatsApp/cellphone:<br>&phone; <a href="tel:+27735886591" class="cta-box__cel-num">073 588 6591</a><br>
+                </p>
+            </div>
+            <form action="https://formsubmit.co/righawkroeloffze@gmail.com" method="post" class="contact-form">
+                <p class="form-para">An asterisk (*) indicates the input of a required field.</p>
+                <label class="full-name form-label">Full Name:*
+                    <input type="text" class="full-name__full-name-input form-input" name="full-name" placeholder="First, Last" required>
+                </label>
+                <label class="phone-num form-label">Phone Number:
+                    <input type="tel" class="phone-num__num-input form-input" name="phone-number" placeholder="+27712345678">
+                </label>
+                <label class="message form-label">Message:*
+                    <textarea name="message" class="message__input form-textarea" cols="30" rows="10" placeholder="How can we be of assistance?" required></textarea>
+                </label>
+                <button class="form-button">Contact Daniel & Plumbers</button>
+            </form>
+        </main>
+        <!-- Site Footer -->
+        <footer class="site-footer">
+            <p class="copyright">© <span class="copyright__date"></span></p>
+            <p class="last-updated">Last Updated: <span class="last-updated__date"></span></p>
+        </footer>
+    </div>
+
+   <script src="js/last-updated.js"></script>
+</body>
+</html>

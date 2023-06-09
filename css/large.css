@@ -1,0 +1,42 @@
+@media screen and (min-width: 1300px) {
+    
+    .content {
+        margin: 10px;
+        border: 3px solid #FDFC9E;
+    }
+
+    h2 {
+        font-size: 3.5rem;
+    }
+    
+    .site-para {
+        width: 60%;
+        margin: 30px auto;
+    }
+
+    p, h3 {
+        font-size: 2rem;
+    }
+
+    .page-title {
+        font-size: 4rem;
+    }
+
+    .site-navigation {
+        border-left: none;
+        border-right: none;
+    }
+
+    .catalogue-container {
+        grid-template-columns: repeat(5, 1fr);
+    }
+
+    .catalogue-info {
+        grid-template-rows: 110px 350px 40px;
+    }
+
+    .map {
+        width: 50%;
+    }
+
+}

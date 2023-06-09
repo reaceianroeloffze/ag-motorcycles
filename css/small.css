@@ -1,0 +1,264 @@
+/* ----------- Fonts for this Site ----------- */
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Rajdhani:wght@700&display=swap');
+
+/* ---------- General Cross-site Styles ------------- */
+
+* {
+    box-sizing: border-box;
+}
+
+body, .content {
+    background-color: #92140C;
+    color: #FDFC9E;
+}
+
+a {
+    text-decoration: none;
+    color: #FDFC9E;
+}
+
+.content {
+    font-family: 'Rajdhani', sans-serif;
+    margin: 0 auto;
+    font-size: 1.2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gruppo', sans-serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+/* ------------ Cross-site flex displays -------------- */
+
+.site-header,
+.site-navigation__links-list,
+.facebook-link,
+.home-link {
+    display: flex;
+}
+
+/* -------- Cross-site Bordered Elemets --------- */
+
+.site-navigation,
+.site-img,
+.site-footer {
+    border: 3px solid #FDFC9E;
+}
+
+/* -------- Cross-site Border Radii -------- */
+
+.site-footer,
+.site-img,
+.content,
+.list-item__site-link,
+.contact-form,
+.form-textarea,
+.form-input,
+.form-button,
+.catalogue-info,
+.map {
+    border-radius: 10px;
+}
+
+/* -------- Header & all Nested Header Elements -------- */
+
+.site-header {
+    padding: 20px;
+}
+
+.logo-box__logo {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.home-link {
+    align-items: center;
+}
+
+.home-link:hover {
+    text-decoration: underline;
+}
+
+.home-link:active {
+    color: #d6efff;
+}
+
+/* -------- Nav & Nested Elements in Nav Styles -------- */
+
+.site-navigation {
+    padding: 0 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: #92140C;
+}
+
+.site-navigation__links-list {
+    list-style: none;
+    padding-left: 0;
+    justify-content: space-evenly;
+}
+
+.list-item__site-link {
+    display: block;
+    padding: 20px;
+    border: 5px solid #92140C;
+}
+
+.list-item__site-link:hover {
+    background-color: #FDFC9E;
+    color: #92140C;
+    border: 5px outset #140101;
+}
+
+.list-item__site-link:active {
+    background-color: #d6efff;
+    color: #92140C;
+    border: 5px inset #140101;
+}
+
+/* --------- Cross-site Main Content Styles ----------- */
+
+.main-content {
+    padding: 0 20px;
+}
+
+.para-link {
+    text-decoration: underline;
+}
+
+.para-link:hover {
+    color: #d6efff;
+}
+
+.para-link:active {
+    color: #C4C10C;
+}
+
+/* ---------- Homepage Styles ----------- */
+
+/* ---------- Catalogue container styles ------------ */
+
+.catalogue-container {
+    text-align: center;
+}
+
+.catalogue-info {
+    padding: 20px;
+    background-color: #FDFC9E;
+    color: #92140C;
+    margin: 30px 0;
+}
+
+.catalogue-info__image {
+    width: 100%;
+}
+
+/* ----------- About Us Page Styles ------------ */
+
+/* ----------- hero image ------------- */
+
+.hero-image {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+/* --------- Google Map ----------- */
+
+.map {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+/* ---------- Contact Us Page Styles -------------- */
+
+/* ---------- Contact Info ------------ */
+
+.cta-box {
+    text-align: center;
+    background-color: #FDFC9E;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 30px;
+    color: #92140C;
+    margin-bottom: 50px;
+}
+
+.cta-box__cel-num {
+    color: #92140C;
+}
+
+.cta-box__cel-num:hover {
+    text-decoration: underline;
+}
+
+.cta-box__cel-num:active {
+    color: #C4C10C;
+}
+
+/* ---------- Contact Form ------------ */
+
+.contact-form {
+    width: 90vw;
+    margin: 0 auto;
+    background-color: #FDFC9E;
+    color: #92140C;
+    padding: 20px;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.form-input {
+    height: 60px;
+}
+
+.form-input,
+.form-textarea {
+    background-color: #92140C;
+    color: #FDFC9E;
+    outline: none;
+    border: none;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.form-textarea {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 100%;
+}
+
+.form-input::placeholder,
+.form-textarea::placeholder {
+    color: #C4C10C;
+}
+
+.form-button {
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #92140C;
+    color: #FDFC9E;
+    border: 5px outset #C4C10C;
+    margin-bottom: 20px;
+}
+
+.form-button:active {
+    background-color: #C4C10C;
+    color: #92140C;
+    border: 5px inset #C4C10C;
+}
+
+/* --------------- Cross-site Footer Styles -------------- */
+
+.site-footer {
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+}
