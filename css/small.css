@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 /* -------- Nav & Nested Elements in Nav Styles -------- */
 
 .site-navigation {
-    padding: 0 10px;
+    padding: 10px 0;
     position: sticky;
     top: 0;
     z-index: 1;
@@ -95,6 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-navigation__links-list {
+    margin: 0;
     list-style: none;
     padding-left: 0;
     justify-content: space-evenly;
